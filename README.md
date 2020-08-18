@@ -1,22 +1,2 @@
-# Hello! My name is Angel.
-
-I am a 13-year old developer and student who codes from time to time.
-Check out my repository. Maybe you will find something of use!
-
-## Frameworks and Languages
-
-I mainly work with the following frameworks/languages
-
-### Frameworks
-
-* PyQt5 (Python/Qt)
-
-* WinForms (.NET)
-
-### Languages
-
-* Python **(main)**
-
-* .NET (C#/VB.Net)
-
-
+## Hello, I'm Angel.
+I am a 13 year old programmer and designer who primarily focuses in the development and design of applications intended for creators, developers, among others. I have been developing since 2015, however, I have started taking programming seriously in the last 2 years.
