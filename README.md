@@ -4,4 +4,4 @@ I'm a 14 year old developer & designer who primarily focuses in developing libra
 
 ### Stats
 ![Ángel's Github Stats](https://github-readme-stats.vercel.app/api?username=angelcarias&theme=vue-dark&show_icons=true)
-![Ángel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelcarias&theme=vue-dark&layout=compact&show_icons=true)
+![Ángel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelcarias&theme=vue-dark&layout=compact&show_icons=true&exclude_repos=macao)
